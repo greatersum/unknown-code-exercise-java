@@ -1,6 +1,6 @@
 package com.greatersum.unknowncode;
 
-class UnknownCode {
+public class UnknownCode {
     int getNumber(int i) {
         if (i == 0){
             return 0;
