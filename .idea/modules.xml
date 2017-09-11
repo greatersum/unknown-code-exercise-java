@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UnknownCode.iml" filepath="$PROJECT_DIR$/UnknownCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnknownCode.iml" filepath="$PROJECT_DIR$/.idea/modules/UnknownCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnknownCode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/UnknownCode_main.iml" group="UnknownCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnknownCode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/UnknownCode_test.iml" group="UnknownCode" />
     </modules>
   </component>
 </project>

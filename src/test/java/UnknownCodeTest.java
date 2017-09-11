@@ -1,11 +1,9 @@
-package com.greatersum.unknowncode;
-
 import org.junit.Test;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
 
-public class UnknownCodeTests {
+public class UnknownCodeTest {
     @Test
     public void ZeroReturnsZero() throws Exception {
         UnknownCode unknownCode = new UnknownCode();
